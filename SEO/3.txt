@@ -1,0 +1,12 @@
+Benefits of using Meta tags are:-
+  It improves accessibility.
+
+  It ensures that websites display perfectly for computers as well as mobile.
+
+  It helps in increasing traffic and engagement which increases revenue .
+
+  It helps in SEO.
+
+  The meta tag specifying the character encoding i.e UTF 8 or UTF 16 helps browsers to interpret the text correctly .
+  
+  Some meta tags improve web accessibility.
